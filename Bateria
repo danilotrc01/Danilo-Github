@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Auto mais</title>
+<meta name="author" content="Danilo Dantas">
+<meta name="description" content="">
+<meta name="keywords" content="WS">
+<meta name="robots" content="index, follow">
+</head>
+<body>
+
+  
+
+  <div id="header"><h1>Musica</h1></div>
+ 
+ <div id="nav"><a href="">pagina1</a></div>
+ 
+ <div id="section"></div>
+ <h2>Instrumentos</h2>
+ <h3>Bateria</h3>
+<p>Bateria é um conjunto de tambores e pratos destinado à produção musical rítmica. Os tambores são, provavelmente, os instrumentos mais antigos da humanidade, tendo-se vestígios de seu uso durante a Pré-história, mais precisamente no período Neolítico.</p>	 
+<p>Os antigos tambores baseavam-se em pedaços de troncos de árvores ocos, cobertos nas bordas com a pele de algum réptil ou couro de peixe. Estes utensílios estavam presentes em diversas atividades festivas e religiosas das mais antigas civilizações.</p>
+<p>No século XX, as baterias (conjuntos de tambores) se tornaram famosas pela sua utilização em bandas militares e orquestras. Nessa época, cada pessoa tocava uma coisa de cada vez: um tocava o bumbo, outro tocava a caixa e uma terceira pessoa tocava os pratos, os blocos de madeira e fazia os efeitos sonoros.</p>
+
+<div id="footer">
+<p> Tecnologia em sistema para Internet</p>
+ <p>Web standard</p>
+ </div>
+</body>
+</html>
