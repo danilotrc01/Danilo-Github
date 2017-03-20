@@ -1,0 +1,11 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"   "http://www.w3.org/TR/html4/strict.dtd"><html><head><style type="text/css">   h1 {background-color:green;font-size:1.5em;text-align:center}</style><!-- link rel="stylesheet" type="text/css" href="“ (Indica um documento de css externo --><title>MODELO HTML/CSS</title></head><body>  <div id="wrapper">    <div id="um">           <h1 onclick=‘alert(“Cabeçalho”)’>AULA 03 – TESTANDO ESTRUTURA</h1>           <p> Entendendo como inserir apresentação e comportamento no documento</p>           <p> Apresentação através do CSS e comportamento através do javaScript</p>           <h2> Exercício da Aula </h2>
+           <p>  Elementos apresentados na Aula de hoje da versão html 4.01 </p>
+           <ul> Lista de elementos com base no html </ul>
+           <li> H1 </li>
+           <li> H2 </li>
+           <li> P </li>
+           <li> Ul </li>
+           <li> Li </li> 
+           <li> Img </li>
+           <img src="Danilo/Convict_Lake_Autumn_View_uhd.jpg">
+  </div>  </div></body></html>

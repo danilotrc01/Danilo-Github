@@ -1,0 +1,79 @@
+﻿<!doctype html5>
+<html long="pt.br">
+<head>
+
+<meta charset="UTF-8">
+<meta name="author" content="Danilo">
+<meta name="description" content= Esportes>
+<meta name="keywords" content="Basquete, Baseball, Futebol Americano, Hóquei, Golf">
+
+<title>Esports</title>
+</head>
+
+<body>
+	<a name="topo"></a>
+	<h1> Esportes Americanos</h1>
+    <ul>   
+
+<li>Basquete</li>
+<li>Baseball</li>
+<li>Futebol Americano</li>
+<li>Hoquei</li>
+<li>Golf</li>
+<ul/>
+
+<dl>
+
+	<dt>Michael jordan</dt>
+         <dd>Jordan estudou na Universidade da Carolina do Norte, onde foi campeão da NCAA em 1982. Entrou na NBA em 1984 ao ser escolhido pelo Chicago Bulls, e logo se tornou uma das estrelas da liga por sua incrível capacidade de pontuar e habilidade nos saltos. Seus pulos, com enterradas pulando da linha do lance-livre, renderam participações marcantes nos concursos de enterradas do NBA All-Star Game e os apelidos de Air Jordan e His Airness. Além de tudo, Jordan foi um dos melhores marcadores que o basquete já viu.[4] Venceu seu primeiro título da NBA em 1991, seguidos por mais dois troféus. Antes da temporada 1993-94 iniciar-se, Jordan se aposentou do basquete para jogar beisebol, mas rapidamente voltou às quadras em 1995 e liderou o Chicago Bulls a mais 3 títulos consecutivos entre 1996 e 1998. Em 1999 anunciou outra aposentadoria, assumindo um posto entre os dirigentes do Washington Wizards. Eventualmente Jordan decidiu voltar a jogar pelo Wizards em 2001, ficando nas quadras até 2003.</dd><p></p>
+    
+    <dt>Jorge Herman</dt>
+         <dd>Jorge Behrens é graduado em Química pela Universidade Estadual de Campinas (1994) e doutor em Tecnologia de Alimentos (2002) pela mesma instituição. Realizou estágio de recém-doutor na Faculdade de Ciências Farmacêuticas da Universidade de São Paulo (2002-2006) e desde 2012 exerce o cargo de professor doutor na Faculdade de Engenharia de Alimentos na Universidade Estadual de Campinas. Seus interesses de pesquisa incluem ciência sensorial e estudos do comportamento do consumidor.</dd><p></p>
+    
+    <dt>Neymar</dt>   
+         <dd>Neymar da Silva Santos Júnior (Mogi das Cruzes, 5 de fevereiro de 1992), mais conhecido como Neymar Jr. ou Neymar, é um futebolista brasileiro, que atua como atacante ou ponta. Atualmente defende o Barcelona e a Seleção Brasileira.</dd><p></p>
+    
+    <dt>Tom Brady</dt>
+         <dd>Thomas Edward Patrick "Tom" Brady, Jr. (San Mateo, Califórnia, 3 de agosto de 1977) é um jogador de futebol americano que atua como quarterback pelo New England Patriots na National Football League (NFL). Depois de jogar futebol americano universitário pela Universidade de Michigan, Brady foi selecionado pelos Patriots na sexta rodada do Draft de 2000 da NFL.</dd><p></p>
+    
+    <dt>Douglas Gretzky</dt>
+         <dd>Wayne Douglas Gretzky (Brantford, Ontário, 26 de janeiro de 1961) é um atleta canadense, foi jogador profissional de hóquei sobre o gelo. Seu apelido é "O Grande" (The Great One), e é considerado por muitos como o melhor jogador de hóquei da história. Gretzky, em sua carreira, foi primariamente um centro-avante. O número de seu uniforme era 99.</dd><p></p>
+    
+    <dt>Eldrick Tont Woods</dt>
+         <dd>Eldrick Tont Woods (Cypress, 30 de dezembro de 1975), mais conhecido como Tiger Woods, é um jogador profissional de golfe dos Estados Unidos.
+         É considerado um dos melhores golfistas de todos os tempos. Em 2005, aos 29 anos de idade, alcançou a marca de dez grandes conquistas do golfe profissional, colocando-o em terceiro na lista atrás de Jack Nicklaus e Walter Hagen. Incluindo seus três Campeonatos Amadores dos Estados Unidos, ele e Bobby Jones foram os únicos golfistas a ganhar treze títulos importantes antes dos 30 anos de idade. Ganhou mais vezes no PGA Tour do que qualquer outro golfista em atividade.</dd>
+        
+         </dl>
+
+
+<ol>
+
+<ol tipy="1"></ol>
+	
+	<li>Danilo</li>
+	<li>Ariel</li>
+	<li>Kenedy</li>
+	<li>Felipe</li>
+	<li>Mariana</li>
+	
+	</ol>
+
+<p><img src="S.jpg" alt="Esporte"><p/>
+
+<p>Vale lembrar que no começo do século XX, vários países viviam regimes totalitários e com ideais nacionalistas, gerando um constante clima de rivalidade e instabilidade entre as nações. Neste contexto, naquela época, o símbolo dos Jogos Olímpicos também serviu como uma "arma" contra os discursos de ódio e incompreensão.</p>
+<p>
+Criada em 1913, mas apresentada mundialmente apenas em 1914, o atual símbolo das Olimpíadas não esteve presente na primeira edição dos Jogos Olímpicos da era moderna (1896, na cidade de Atenas, Grécia). Na realidade, os Anéis Olímpicos só foram utilizados após as Olimpíadas de Estocolmo, em 1912, onde pela primeira vez participaram atletas de todos os continentes do mundo.</p>
+<p>
+	
+	<li>Azul: Europa</li>
+    <li>Preto: África</li>
+    <li>Vermelho: América</li>
+    <li>Amarelo: Ásia</li>
+    <li>Verde: Oceania</li>
+    </p>
+    
+<a href=#topo>Topo</a>
+    </body>
+</html>
+</ Body>
+</ Html>

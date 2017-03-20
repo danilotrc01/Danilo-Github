@@ -1,0 +1,41 @@
+﻿<! DOCTYPE HTML PUBLIC "- // W3C // DTD HTML 4.01 // PT" "http://www.w3.org/TR/html4/strict.dtd">
+<Html>
+	<Head>
+		<Meta http-equiv = "Content-Type" content = "text / html; charset = UTF-8">
+		<Title> Auto mais </ title>
+		<Meta name = "autor" content = "Danilo Dantas">
+		<Meta name = "description" content = "">
+		<Meta name = "keywords" content = "">
+		<Meta name = "robots" content = "index, follow">
+	</Head>
+	<Body>
+
+ 		<Div id = "header"> <h1> Auto Mais </ h1> </ div>
+		<Div id = "nav"> <a href=""> pagina1 </a> </ div>
+ 		<Div id = "section"> </ div>
+ 		<H2> Mitsubishi </ h2>
+		<p>Em 1873, uma compainha foi rebatizada "<em> Mitsubishi Shokai" </em> </p>
+		<H3> Hitoria </ h3>
+		<p> Tudo começou em 1870 com um Mitsukawa (três rios em japonês). Utilizando três barcos a vapor, o fundador Yataro Iwasaki, explorava uma rota comercial entre China e Rússia. Os negócios prosperaram como três embarcações transformaram-se em diamantes, símbolos do império que iniciara. Em 1873, uma companhia foi rebatizada "Mitsubishi Shokai". </P>
+		<p> <h1> Lancer </h1> <img src = "M.jpg" alt = "Carro de corrida"> </p>
+		<p> <h2> Outlander </h2> <img src = "M2.jpg" alt = "carro sportivo"> ​​</p>
+	 
+
+		<p> Mais tarde, Koyata Iwasaki, presidente da empresa e fundador da Fundação Yataro, anteviu o vasto potencial dos veículos motorizados eo papel que eles desempenhariam na economia japonesa. Assim, em 1917, surgiu um Mitsubishi Motors. Entre os avanços tecnológicos do século XX, foi montado o Mitsubishi Modelo A, o primeiro veículo produzido em série no Japão. Em 1932, uma montadora lança um automóvel com um motor diesel. E, dois anos mais tarde, o PX33, o primeiro automóvel japonês com tração integral, produzido para fins militares, em colaboração com o governo do país.</p>
+
+		<p> Lançado em 1973, o Mitsubishi Lancer se tornou um dos modelos mais conhecidos da marca, assim como o Pajero, uma aposta da Mitsubishi nos veículos SUV, eo Lancer Evolution, modelo consagrado não World Rally Championship. Atualmente, o Lancer é fabricado também no Brasil, ao lado dos modelos ASX, Pajero e L200 Triton. </p>
+
+		<p> Desde então, tecnologia, design, alta qualidade e resistência tornaram-se de Mitsubishi Motors, que contam ainda com uma divisão esportiva de alta performance, um Ralliart, responsável pela fabricação de veículos off-road. Um dos laboratórios de testes da Ralliart foi um dos mais difíceis e mais difíceis do mundo, o Rally Dakar, sem qualificação um Mitsubishi é uma única marca de um campeonato por 12 vezes. </P>
+
+		<p> O Grupo Mitsubishi é o maior conglomerado asiático e está presente no mercado de bens imóveis, hotelaria, construção, transporte, mineração, seguros, maquinaria, automotores e não setor aeroespacial. Além disso, não há desenvolvimento de campanhas para preservação ambiental e desenvolvimento de pesquisas científicas.
+
+Atualmente, o grupo possui mais de 200 grandes empresas, com atuação em 180 países. Nesse rol, estão a cervejaria Kirin, como câmeras Nikon e outras grandes marcas do cenário mundial. Somente no Japão, o conglomerado emprega mais de 1 milhão de pessoas. </p>
+
+		<div id = "footer">
+		<p> Tecnologia em sistema para Internet </p>
+ 		<p> Padrão Web </p>
+ 		</div>
+
+
+</ Body>
+</ Html>
